@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/eHealth-rid/static/css/main.63e3a993.css",
-    "main.js": "/eHealth-rid/static/js/main.c82ca870.js",
+    "main.js": "/eHealth-rid/static/js/main.09bbaea7.js",
     "static/js/453.c1c53829.chunk.js": "/eHealth-rid/static/js/453.c1c53829.chunk.js",
     "index.html": "/eHealth-rid/index.html",
     "main.63e3a993.css.map": "/eHealth-rid/static/css/main.63e3a993.css.map",
-    "main.c82ca870.js.map": "/eHealth-rid/static/js/main.c82ca870.js.map",
+    "main.09bbaea7.js.map": "/eHealth-rid/static/js/main.09bbaea7.js.map",
     "453.c1c53829.chunk.js.map": "/eHealth-rid/static/js/453.c1c53829.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.63e3a993.css",
-    "static/js/main.c82ca870.js"
+    "static/js/main.09bbaea7.js"
   ]
 }
